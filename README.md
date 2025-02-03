@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the `$in` operator in MongoDB queries with null values. The incorrect query may not return expected results because null values are not treated consistently. This example showcases the problem and provides a correct solution for handling null values during queries.
